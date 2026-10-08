@@ -1,10 +1,10 @@
 # Python Programming
 
-Solutions to the PGR107 Python Programming home exam at Kristiania (spring 2026). One Jupyter notebook covering five tasks, from algorithms to a full data-analysis case with pandas and visualisations.
+A set of Python solutions covering five tasks, from algorithms to a full data-analysis case with pandas and visualisations. All in one Jupyter notebook.
 
 ## What's inside
 
-See [`PGR107_Python_Exam_2026.ipynb`](PGR107_Python_Exam_2026.ipynb) — each task has markdown explanations before and after the code.
+See [`python_programming.ipynb`](python_programming.ipynb) — each task has markdown explanations before and after the code.
 
 | Task | Topic | What it shows |
 |------|-------|---------------|
@@ -31,7 +31,7 @@ Python · Jupyter · NumPy · pandas · matplotlib · seaborn
 
 ```bash
 pip install numpy pandas matplotlib seaborn jupyter
-jupyter notebook PGR107_Python_Exam_2026.ipynb
+jupyter notebook python_programming.ipynb
 ```
 
 Task 5 expects the Udir CSV in a `data/` folder next to the notebook — the download steps are described in the notebook itself.
